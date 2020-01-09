@@ -2,6 +2,8 @@
 #include <string.h>
 #include <stdlib.h>
 
+edit
+
 struct movie
 {
 	char name[40];		
